@@ -30,3 +30,5 @@ Wine classification
 **Random Forest**
 
 **Decision Tree**
+
+**KNN**
