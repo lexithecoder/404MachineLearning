@@ -19,3 +19,14 @@ Wine classification
 6- PyTorch: see if it is competitive or not.    
 
 7- Error analysis.
+
+**Report Summary**
+ Train: From the total wine dataset (red and white wine). The train size was 20%. 
+ Test:  From the total wine dataset (red and white wine).The test size was 80%.
+
+**SVM**
+ We then performed an SVM on the dataset and we got a training accuracy of 43.80%, and our testing accuracy was 43.6%
+
+**Random Forest**
+
+**Decision Tree**
