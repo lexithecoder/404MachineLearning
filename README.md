@@ -1,4 +1,4 @@
-# CSE 404 MachineLearning
+# CSE 404 Machine Learning
 
 CSE404 Group 8 Intro to Machine Learning Project
 
